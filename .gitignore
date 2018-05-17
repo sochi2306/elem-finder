@@ -1,0 +1,22 @@
+*.class
+
+# Package Files #
+
+*.war
+*.ear
+
+*.iml
+
+.idea/
+
+*.*~
+*~
+*.DS_STORE
+
+*.log
+*.log.*
+
+.classpath
+.project
+.settings/
+
